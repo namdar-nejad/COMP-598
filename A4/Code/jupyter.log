@@ -1,0 +1,32 @@
+[I 2021-10-16 13:50:13.412 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-10-16 13:50:13.441 LabApp] JupyterLab extension loaded from /home/ubuntu/.local/lib/python3.8/site-packages/jupyterlab
+[I 2021-10-16 13:50:13.441 LabApp] JupyterLab application directory is /home/ubuntu/.local/share/jupyter/lab
+[I 2021-10-16 13:50:13.445 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-10-16 13:50:13.446 ServerApp] Serving notebooks from local directory: /home/ubuntu/task1
+[I 2021-10-16 13:50:13.446 ServerApp] Jupyter Server 1.11.1 is running at:
+[I 2021-10-16 13:50:13.446 ServerApp] http://ip-172-31-10-58:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+[I 2021-10-16 13:50:13.446 ServerApp]  or http://127.0.0.1:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+[I 2021-10-16 13:50:13.446 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-10-16 13:50:13.450 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/jpserver-87008-open.html
+    Or copy and paste one of these URLs:
+        http://ip-172-31-10-58:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+     or http://127.0.0.1:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+[I 2021-10-16 13:50:22.292 ServerApp] 302 GET / (91.99.81.157) 0.58ms
+[W 2021-10-16 13:50:28.078 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-16 13:50:31.479 ServerApp] Notebook task1.ipynb is not trusted
+[I 2021-10-16 13:50:32.412 ServerApp] Kernel started: 07f1be5e-8757-440d-8778-776e4c146462
+^C[I 2021-10-16 13:50:43.617 ServerApp] interrupted
+Serving notebooks from local directory: /home/ubuntu/task1
+1 active kernel
+Jupyter Server 1.11.1 is running at:
+http://ip-172-31-10-58:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+ or http://127.0.0.1:8888/lab?token=bb6cdeff70d74f0d372a50eda55f440cbcf4078769be80a6
+Shutdown this Jupyter server (y/[n])? y
+[C 2021-10-16 13:50:45.968 ServerApp] Shutdown confirmed
+[I 2021-10-16 13:50:45.969 ServerApp] Shutting down 1 extension
+[I 2021-10-16 13:50:45.969 ServerApp] Shutting down 1 kernel
+[I 2021-10-16 13:50:45.970 ServerApp] Kernel shutdown: 07f1be5e-8757-440d-8778-776e4c146462
+[I 2021-10-16 13:50:46.176 ServerApp] Shutting down 0 terminals
